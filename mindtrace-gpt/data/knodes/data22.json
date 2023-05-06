@@ -1,0 +1,83 @@
+[
+
+{"title": "生物", "stem": -1, "id": 0},
+
+{"title": "细胞生物学", "stem": 0, "id": 1},
+
+{"title": "遗传学", "stem": 0, "id": 2},
+
+{"title": "发育生物学", "stem": 0, "id": 3},
+
+{"title": "免疫学", "stem": 0, "id": 4},
+
+{"title": "细胞分裂", "stem": 1, "id": 5},
+
+{"title": "细胞凋亡", "stem": 1, "id": 6},
+
+{"title": "DNA复制", "stem": 2, "id": 7},
+
+{"title": "基因表达", "stem": 2, "id": 8},
+
+{"title": "生物进化", "stem": 3, "id": 9},
+
+{"title": "胚胎发育", "stem": 3, "id": 10},
+
+{"title": "抗体", "stem": 4, "id": 11},
+
+{"title": "细胞膜", "stem": 4, "id": 12},
+
+{"title": "基因突变", "stem": 5, "id": 13},
+
+{"title": "细胞分化", "stem": 5, "id": 14},
+
+{"title": "DNA修复", "stem": 6, "id": 15},
+
+{"title": "RNA合成", "stem": 6, "id": 16},
+
+{"title": "自然选择", "stem": 9, "id": 17},
+
+{"title": "环境影响", "stem": 9, "id": 18},
+
+{"title": "神经生物学", "stem": -1, "id": 19},
+
+{"title": "行为神经生物学", "stem": 19, "id": 20},
+
+{"title": "神经递质", "stem": 19, "id": 21},
+
+{"title": "神经元", "stem": 19, "id": 22},
+
+{"title": "大脑皮层", "stem": 19, "id": 23},
+
+{"title": "视神经", "stem": 21, "id": 24},
+
+{"title": "中枢神经系统", "stem": 21, "id": 25},
+
+{"title": "感知", "stem": 23, "id": 26},
+
+{"title": "认知", "stem": 23, "id": 27},
+
+{"title": "运动控制", "stem": 25, "id": 28},
+
+{"title": "情感", "stem": 25, "id": 29},
+
+{"title": "神经元发育", "stem": 22, "id": 30},
+
+{"title": "神经细胞外基质", "stem": 22, "id": 31},
+
+{"title": "神经元记忆", "stem": 27, "id": 32},
+
+{"title": "神经元选择性", "stem": 27, "id": 33},
+
+{"title": "神经元修复", "stem": 30, "id": 34},
+
+{"title": "神经元组织", "stem": 30, "id": 35},
+
+{"title": "大脑皮层分区", "stem": 23, "id": 36},
+
+{"title": "大脑皮层神经元类型", "stem": 23, "id": 37},
+
+{"title": "神经元编码", "stem": 36, "id": 38},
+
+{"title": "网络动力学", "stem": 36, "id": 39}
+
+]

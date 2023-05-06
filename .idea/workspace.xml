@@ -4,7 +4,71 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0a8541b-cb95-4213-8ee5-d0ce0a0256d9" name="Changes" comment="" />
+    <list default="true" id="c0a8541b-cb95-4213-8ee5-d0ce0a0256d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general/test/batch_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/.idea/mindtrace-gpt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data14.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data15.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data16.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data17.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data18.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data19.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data21.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data22.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data23.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data24.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data25.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data26.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data27.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data28.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data29.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/data/knodes/data9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-gpt/generate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-knode-similarity/app/cache.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/ann/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/ann/faiss_ann.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/ann/mapping.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/ann/src.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/word_similarity/bert-base-multilingual-uncased/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/word_similarity/bert-base-multilingual-uncased/pytorch_model.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/word_similarity/bert-base-multilingual-uncased/tokenizer_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/word_similarity/bert-base-multilingual-uncased/vocab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/word_similarity/gpt_embeddings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general/mq_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/general/mq_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general/session_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/general/session_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mindtrace-knode-similarity/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/mindtrace-knode-similarity/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mindtrace-knode-similarity/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mindtrace-knode-similarity/app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/persistent/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/general/auth_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/persistent/knode_feature.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/word_similarity/bert_word_similarity.py" beforeDir="false" afterPath="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/word_similarity/bert_word_similarity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mindtrace-spider-python/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/mindtrace-spider-python/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mindtrace-spider-python/app/service/router.py" beforeDir="false" afterPath="$PROJECT_DIR$/mindtrace-spider-python/app/service/router.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,18 +92,26 @@
       </map>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OmXUGpRJRQ0huhpD1BbVUlvhS6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/coding/projects/applicationProjects/mindtrace-cloud-python&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -47,23 +119,41 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
 }</component>
-  <component name="RunManager" selected="Python.knode-similarity">
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\coding\projects\applicationProjects\mindtrace-cloud-python\mindtrace-knode-similarity\app\service\word_similarity\bert" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\coding\projects\applicationProjects\mindtrace-cloud-python\mindtrace-knode-similarity\app\service\word_similarity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.spider">
+    <configuration name="start" type="CompoundRunConfigurationType">
+      <toRun name="knode-similarity" type="PythonConfigurationType" />
+      <toRun name="spider" type="PythonConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bert_word_similarity" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mindtrace-cloud-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="D:\coding\projects\applicationProjects\mindtrace-cloud-python\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mindtrace-spider-python" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/word_similarity" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mindtrace-spider-python/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/word_similarity/bert_word_similarity.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +162,51 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="knode-similarity" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="generate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mindtrace-cloud-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mindtrace-gpt" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mindtrace-gpt/generate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gpt_embeddings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mindtrace-cloud-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/word_similarity" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/word_similarity/gpt_embeddings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="knode-similarity" type="PythonConfigurationType" factoryName="Python">
       <module name="mindtrace-cloud-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,14 +228,89 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mindtrace-cloud-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mindtrace-gpt" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mindtrace-gpt/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider" type="PythonConfigurationType" factoryName="Python">
+      <module name="mindtrace-cloud-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\coding\projects\applicationProjects\mindtrace-cloud-python\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mindtrace-spider-python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mindtrace-spider-python/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mindtrace-cloud-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/general" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/general/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Compound.start" />
+      <item itemvalue="Python.spider" />
       <item itemvalue="Python.knode-similarity" />
-      <item itemvalue="Python.app" />
+      <item itemvalue="Python.generate" />
+      <item itemvalue="Python.gpt_embeddings" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.bert_word_similarity" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.knode-similarity" />
-        <item itemvalue="Python.app" />
+        <item itemvalue="Python.generate" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.gpt_embeddings" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.bert_word_similarity" />
       </list>
     </recent_temporary>
   </component>
@@ -119,15 +328,101 @@
       <workItem from="1682171381833" duration="2548000" />
       <workItem from="1682215464891" duration="794000" />
       <workItem from="1682216713916" duration="1609000" />
+      <workItem from="1682226129857" duration="2718000" />
+      <workItem from="1682232334647" duration="8152000" />
+      <workItem from="1682295934825" duration="1183000" />
+      <workItem from="1682302846655" duration="1458000" />
+      <workItem from="1682318289223" duration="2369000" />
+      <workItem from="1682324566967" duration="1651000" />
+      <workItem from="1682333309910" duration="1820000" />
+      <workItem from="1682340437411" duration="675000" />
+      <workItem from="1682350952240" duration="1188000" />
+      <workItem from="1682394703458" duration="1187000" />
+      <workItem from="1682402672284" duration="1383000" />
+      <workItem from="1682419251540" duration="4786000" />
+      <workItem from="1682467958619" duration="1311000" />
+      <workItem from="1682475809790" duration="1163000" />
+      <workItem from="1682486278186" duration="1153000" />
+      <workItem from="1682488605221" duration="1189000" />
+      <workItem from="1682495746105" duration="2082000" />
+      <workItem from="1682512146288" duration="2048000" />
+      <workItem from="1682554855120" duration="1956000" />
+      <workItem from="1682561879721" duration="707000" />
+      <workItem from="1682575417172" duration="1481000" />
+      <workItem from="1682582454607" duration="594000" />
+      <workItem from="1682592658395" duration="597000" />
+      <workItem from="1682597896613" duration="594000" />
+      <workItem from="1682610072709" duration="594000" />
+      <workItem from="1682641671124" duration="1799000" />
+      <workItem from="1682651653997" duration="594000" />
+      <workItem from="1682658710224" duration="594000" />
+      <workItem from="1682667225703" duration="595000" />
+      <workItem from="1682686977446" duration="358000" />
+      <workItem from="1682689706868" duration="1333000" />
+      <workItem from="1682729083421" duration="1191000" />
+      <workItem from="1682752368541" duration="1779000" />
+      <workItem from="1682819257716" duration="595000" />
+      <workItem from="1682859547085" duration="1363000" />
+      <workItem from="1682901755069" duration="1189000" />
+      <workItem from="1682929416183" duration="1072000" />
+      <workItem from="1683024505328" duration="2909000" />
+      <workItem from="1683076096457" duration="13593000" />
+      <workItem from="1683121721904" duration="3566000" />
+      <workItem from="1683127449948" duration="3344000" />
+      <workItem from="1683159506366" duration="4235000" />
+      <workItem from="1683179961422" duration="9115000" />
+      <workItem from="1683213218443" duration="1847000" />
+      <workItem from="1683246004255" duration="4160000" />
+      <workItem from="1683273139063" duration="3683000" />
+      <workItem from="1683285539098" duration="1920000" />
+      <workItem from="1683289320029" duration="44000" />
+      <workItem from="1683289400337" duration="2844000" />
+      <workItem from="1683292729924" duration="9003000" />
+      <workItem from="1683332622359" duration="1980000" />
+      <workItem from="1683339770677" duration="1948000" />
+      <workItem from="1683352582448" duration="15061000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mindtrace-gpt/main.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/mindtrace_cloud_python$knode_similarity.coverage" NAME="knode-similarity Coverage Results" MODIFIED="1682217068839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mindtrace-knode-similarity" />
+    <SUITE FILE_PATH="coverage/mindtrace_cloud_python$learn.coverage" NAME="learn Coverage Results" MODIFIED="1683116625613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/ann" />
+    <SUITE FILE_PATH="coverage/mindtrace_cloud_python$spider.coverage" NAME="spider Coverage Results" MODIFIED="1683372477333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mindtrace-spider-python" />
+    <SUITE FILE_PATH="coverage/mindtrace_cloud_python$gpt_embeddings.coverage" NAME="gpt_embeddings Coverage Results" MODIFIED="1683303198922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/word_similarity" />
+    <SUITE FILE_PATH="coverage/mindtrace_cloud_python$knode_similarity.coverage" NAME="knode-similarity Coverage Results" MODIFIED="1683372108228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mindtrace-knode-similarity" />
     <SUITE FILE_PATH="coverage/mindtrace_cloud_python$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1682171207368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mindtrace-knode-similarity" />
+    <SUITE FILE_PATH="coverage/mindtrace_cloud_python$test.coverage" NAME="test Coverage Results" MODIFIED="1683300081584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/general" />
     <SUITE FILE_PATH="coverage/mindtrace_cloud_python$app.coverage" NAME="app Coverage Results" MODIFIED="1682216769065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mindtrace-spider-python" />
+    <SUITE FILE_PATH="coverage/mindtrace_cloud_python$main.coverage" NAME="main Coverage Results" MODIFIED="1683357733187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mindtrace-gpt" />
+    <SUITE FILE_PATH="coverage/mindtrace_cloud_python$generate.coverage" NAME="generate Coverage Results" MODIFIED="1683364689812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mindtrace-gpt" />
+    <SUITE FILE_PATH="coverage/mindtrace_cloud_python$bert_word_similarity.coverage" NAME="bert_word_similarity Coverage Results" MODIFIED="1683299087979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/word_similarity" />
+    <SUITE FILE_PATH="coverage/mindtrace_cloud_python$faiss_ann.coverage" NAME="faiss_ann Coverage Results" MODIFIED="1683298988615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mindtrace-knode-similarity/app/service/ann" />
   </component>
 </project>

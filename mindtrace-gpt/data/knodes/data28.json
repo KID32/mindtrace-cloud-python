@@ -1,0 +1,83 @@
+[
+
+{"title": "计算机", "stem": -1, "id": 0},
+
+{"title": "人工智能", "stem": 0, "id": 1},
+
+{"title": "机器学习", "stem": 1, "id": 2},
+
+{"title": "深度学习", "stem": 2, "id": 3},
+
+{"title": "自然语言处理", "stem": 2, "id": 4},
+
+{"title": "图像处理", "stem": 2, "id": 5},
+
+{"title": "计算机网络", "stem": 0, "id": 6},
+
+{"title": "TCP/IP协议", "stem": 6, "id": 7},
+
+{"title": "网络安全", "stem": 6, "id": 8},
+
+{"title": "操作系统", "stem": 0, "id": 9},
+
+{"title": "Linux", "stem": 9, "id": 10},
+
+{"title": "Windows", "stem": 9, "id": 11},
+
+{"title": "软件工程", "stem": 0, "id": 12},
+
+{"title": "需求分析", "stem": 12, "id": 13},
+
+{"title": "软件测试", "stem": 12, "id": 14},
+
+{"title": "数据结构与算法", "stem": 0, "id": 15},
+
+{"title": "排序算法", "stem": 15, "id": 16},
+
+{"title": "查找算法", "stem": 15, "id": 17},
+
+{"title": "编程语言", "stem": 0, "id": 18},
+
+{"title": "Java", "stem": 18, "id": 19},
+
+{"title": "Python", "stem": 18, "id": 20},
+
+{"title": "C/C++", "stem": 18, "id": 21},
+
+{"title": "Web开发", "stem": 0, "id": 22},
+
+{"title": "前端开发", "stem": 22, "id": 23},
+
+{"title": "后端开发", "stem": 22, "id": 24},
+
+{"title": "数据库", "stem": 0, "id": 25},
+
+{"title": "MySQL", "stem": 25, "id": 26},
+
+{"title": "MongoDB", "stem": 25, "id": 27},
+
+{"title": "Redis", "stem": 25, "id": 28},
+
+{"title": "计算机组成原理", "stem": 0, "id": 29},
+
+{"title": "数字电路", "stem": 29, "id": 30},
+
+{"title": "体系结构", "stem": 29, "id": 31},
+
+{"title": "编译原理", "stem": 0, "id": 32},
+
+{"title": "词法分析", "stem": 32, "id": 33},
+
+{"title": "语法分析", "stem": 32, "id": 34},
+
+{"title": "操作系统原理", "stem": 0, "id": 35},
+
+{"title": "进程管理", "stem": 35, "id": 36},
+
+{"title": "内存管理", "stem": 35, "id": 37},
+
+{"title": "文件系统", "stem": 35, "id": 38},
+
+{"title": "人机交互", "stem": 0, "id": 39}
+
+]

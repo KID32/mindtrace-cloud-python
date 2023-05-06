@@ -1,0 +1,85 @@
+[
+
+{"title": "计算机", "stem": -1, "id": 0},
+
+{"title": "编程语言", "stem": 0, "id": 1},
+
+{"title": "数据结构", "stem": 0, "id": 2},
+
+{"title": "操作系统", "stem": 0, "id": 3},
+
+{"title": "Java", "stem": 1, "id": 4},
+
+{"title": "Python", "stem": 1, "id": 5},
+
+{"title": "C++", "stem": 1, "id": 6},
+
+{"title": "数组", "stem": 2, "id": 7},
+
+{"title": "链表", "stem": 2, "id": 8},
+
+{"title": "栈", "stem": 2, "id": 9},
+
+{"title": "进程管理", "stem": 3, "id": 10},
+
+{"title": "内存管理", "stem": 3, "id": 11},
+
+{"title": "文件系统", "stem": 3, "id": 12},
+
+{"title": "算法", "stem": 2, "id": 13},
+
+{"title": "计算机网络", "stem": 0, "id": 14},
+
+{"title": "TCP/IP", "stem": 14, "id": 15},
+
+{"title": "HTTP", "stem": 14, "id": 16},
+
+{"title": "物理层", "stem": 14, "id": 17},
+
+{"title": "Web开发", "stem": 1, "id": 18},
+
+{"title": "前端", "stem": 18, "id": 19},
+
+{"title": "后端", "stem": 18, "id": 20},
+
+{"title": "HTML", "stem": 19, "id": 21},
+
+{"title": "CSS", "stem": 19, "id": 22},
+
+{"title": "JavaScript", "stem": 19, "id": 23},
+
+{"title": "安全", "stem": 0, "id": 24},
+
+{"title": "密码学", "stem": 24, "id": 25},
+
+{"title": "漏洞攻击与防范", "stem": 24, "id": 26},
+
+{"title": "人工智能", "stem": 0, "id": 27},
+
+{"title": "机器学习", "stem": 27, "id": 28},
+
+{"title": "神经网络", "stem": 27, "id": 29},
+
+{"title": "计算机图形学", "stem": 0, "id": 30},
+
+{"title": "渲染", "stem": 30, "id": 31},
+
+{"title": "几何处理", "stem": 30, "id": 32},
+
+{"title": "数据库", "stem": 0, "id": 33},
+
+{"title": "SQL", "stem": 33, "id": 34},
+
+{"title": "NoSQL", "stem": 33, "id": 35},
+
+{"title": "区块链", "stem": 0, "id": 36},
+
+{"title": "智能合约", "stem": 36, "id": 37},
+
+{"title": "加密货币", "stem": 36, "id": 38},
+
+{"title": "物联网", "stem": 0, "id": 39},
+
+{"title": "传感器", "stem": 39, "id": 40}
+
+]

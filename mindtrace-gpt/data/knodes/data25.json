@@ -1,0 +1,83 @@
+[
+
+{"title": "计算机科学", "stem": -1, "id": 0},
+
+{"title": "算法", "stem": 0, "id": 1},
+
+{"title": "数据结构", "stem": 0, "id": 2},
+
+{"title": "人工智能", "stem": 0, "id": 3},
+
+{"title": "排序算法", "stem": 1, "id": 4},
+
+{"title": "图算法", "stem": 1, "id": 5},
+
+{"title": "树结构", "stem": 2, "id": 6},
+
+{"title": "链表", "stem": 2, "id": 7},
+
+{"title": "神经网络", "stem": 3, "id": 8},
+
+{"title": "机器学习", "stem": 3, "id": 9},
+
+{"title": "深度学习", "stem": 9, "id": 10},
+
+{"title": "卷积神经网络", "stem": 10, "id": 11},
+
+{"title": "循环神经网络", "stem": 10, "id": 12},
+
+{"title": "粒子系统", "stem": 11, "id": 13},
+
+{"title": "欧拉法", "stem": 12, "id": 14},
+
+{"title": "LSTM", "stem": 12, "id": 15},
+
+{"title": "计算机视觉", "stem": 3, "id": 16},
+
+{"title": "目标检测", "stem": 16, "id": 17},
+
+{"title": "图像分割", "stem": 16, "id": 18},
+
+{"title": "自然语言处理", "stem": 3, "id": 19},
+
+{"title": "语音识别", "stem": 3, "id": 20},
+
+{"title": "推荐算法", "stem": 3, "id": 21},
+
+{"title": "模拟退火", "stem": 1, "id": 22},
+
+{"title": "遗传算法", "stem": 1, "id": 23},
+
+{"title": "KNN算法", "stem": 1, "id": 24},
+
+{"title": "贝叶斯网络", "stem": 3, "id": 25},
+
+{"title": "分布式系统", "stem": 0, "id": 26},
+
+{"title": "并行计算", "stem": 0, "id": 27},
+
+{"title": "网络安全", "stem": 0, "id": 28},
+
+{"title": "云计算", "stem": 26, "id": 29},
+
+{"title": "分布式存储", "stem": 26, "id": 30},
+
+{"title": "MapReduce算法", "stem": 27, "id": 31},
+
+{"title": "CUDA编程", "stem": 2, "id": 32},
+
+{"title": "分布式数据库", "stem": 30, "id": 33},
+
+{"title": "密码学", "stem": 28, "id": 34},
+
+{"title": "渗透测试", "stem": 28, "id": 35},
+
+{"title": "区块链", "stem": 0, "id": 36},
+
+{"title": "智能合约", "stem": 36, "id": 37},
+
+{"title": "比特币", "stem": 36, "id": 38},
+
+{"title": "区块链技术原理", "stem": 38, "id": 39}
+
+]

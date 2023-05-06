@@ -1,0 +1,83 @@
+[
+
+{"title": "生物", "stem": -1, "id": 0},
+
+{"title": "分子生物学", "stem": 0, "id": 1},
+
+{"title": "细胞生物学", "stem": 0, "id": 2},
+
+{"title": "生态学", "stem": 0, "id": 3},
+
+{"title": "遗传学", "stem": 0, "id": 4},
+
+{"title": "基因", "stem": 1, "id": 5},
+
+{"title": "蛋白质", "stem": 1, "id": 6},
+
+{"title": "DNA", "stem": 5, "id": 7},
+
+{"title": "RNA", "stem": 5, "id": 8},
+
+{"title": "细胞分裂", "stem": 2, "id": 9},
+
+{"title": "细胞膜", "stem": 2, "id": 10},
+
+{"title": "生物多样性", "stem": 3, "id": 11},
+
+{"title": "生态系统", "stem": 3, "id": 12},
+
+{"title": "基因组学", "stem": 4, "id": 13},
+
+{"title": "基因表达", "stem": 4, "id": 14},
+
+{"title": "人类遗传学", "stem": 4, "id": 15},
+
+{"title": "克隆", "stem": 5, "id": 16},
+
+{"title": "遗传工程", "stem": 5, "id": 17},
+
+{"title": "进化论", "stem": 3, "id": 18},
+
+{"title": "生物化学", "stem": 1, "id": 19},
+
+{"title": "蛋白质结构", "stem": 19, "id": 20},
+
+{"title": "酶", "stem": 19, "id": 21},
+
+{"title": "细胞信号传导", "stem": 2, "id": 22},
+
+{"title": "神经生物学", "stem": 2, "id": 23},
+
+{"title": "免疫学", "stem": 2, "id": 24},
+
+{"title": "病毒", "stem": 1, "id": 25},
+
+{"title": "分子仿真", "stem": 1, "id": 26},
+
+{"title": "生物物理学", "stem": 1, "id": 27},
+
+{"title": "毒理学", "stem": 3, "id": 28},
+
+{"title": "环境污染", "stem": 3, "id": 29},
+
+{"title": "海洋生物学", "stem": 3, "id": 30},
+
+{"title": "植物学", "stem": 0, "id": 31},
+
+{"title": "植物生理学", "stem": 31, "id": 32},
+
+{"title": "昆虫学", "stem": 0, "id": 33},
+
+{"title": "动物行为学", "stem": 0, "id": 34},
+
+{"title": "动物生理学", "stem": 0, "id": 35},
+
+{"title": "计算生物学", "stem": 1, "id": 36},
+
+{"title": "系统生物学", "stem": 1, "id": 37},
+
+{"title": "生物信息学", "stem": 1, "id": 38},
+
+{"title": "微生物学", "stem": 0, "id": 39}
+
+]

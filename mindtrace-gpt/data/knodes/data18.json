@@ -1,0 +1,85 @@
+[
+
+{"title": "数学", "stem": -1, "id": 0},
+
+{"title": "微积分", "stem": 0, "id": 1},
+
+{"title": "线性代数", "stem": 0, "id": 2},
+
+{"title": "概率论", "stem": 0, "id": 3},
+
+{"title": "多元函数积分学", "stem": 1, "id": 4},
+
+{"title": "多元函数微分学", "stem": 1, "id": 5},
+
+{"title": "微分方程", "stem": 1, "id": 6},
+
+{"title": "矩阵", "stem": 2, "id": 7},
+
+{"title": "向量", "stem": 2, "id": 8},
+
+{"title": "特征值", "stem": 2, "id": 9},
+
+{"title": "条件概率", "stem": 3, "id": 10},
+
+{"title": "随机变量", "stem": 3, "id": 11},
+
+{"title": "大数定理", "stem": 3, "id": 12},
+
+{"title": "偏微分方程", "stem": 6, "id": 13},
+
+{"title": "常微分方程", "stem": 6, "id": 14},
+
+{"title": "偏导数", "stem": 4, "id": 15},
+
+{"title": "梯度", "stem": 4, "id": 16},
+
+{"title": "第一类曲线积分", "stem": 4, "id": 17},
+
+{"title": "二次型", "stem": 9, "id": 18},
+
+{"title": "特征向量", "stem": 9, "id": 19},
+
+{"title": "狄利克雷函数", "stem": 12, "id": 20},
+
+{"title": "泊松分布", "stem": 12, "id": 21},
+
+{"title": "极小值", "stem": 16, "id": 22},
+
+{"title": "散度", "stem": 16, "id": 23},
+
+{"title": "格林函数", "stem": 13, "id": 24},
+
+{"title": "贝叶斯公式", "stem": 10, "id": 25},
+
+{"title": "似然函数", "stem": 10, "id": 26},
+
+{"title": "等比数列", "stem": 1, "id": 27},
+
+{"title": "指数函数", "stem": 1, "id": 28},
+
+{"title": "圆锥曲线", "stem": 2, "id": 29},
+
+{"title": "非线性方程", "stem": 6, "id": 30},
+
+{"title": "无限级数", "stem": 1, "id": 31},
+
+{"title": "收敛", "stem": 1, "id": 32},
+
+{"title": "连续性", "stem": 2, "id": 33},
+
+{"title": "范德蒙行列式", "stem": 7, "id": 34},
+
+{"title": "正交矩阵", "stem": 7, "id": 35},
+
+{"title": "马尔可夫链", "stem": 11, "id": 36},
+
+{"title": "熵", "stem": 11, "id": 37},
+
+{"title": "导数", "stem": 27, "id": 38},
+
+{"title": "复合函数", "stem": 27, "id": 39},
+
+{"title": "简单随机游走", "stem": 36, "id": 40}
+
+]

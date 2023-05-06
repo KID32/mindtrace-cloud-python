@@ -7,7 +7,7 @@ def hello_world():  # put application's code here
     return 'Hello World!'
 
 
-@app.route("/")
+@app.route("/", methods=["POST"])
 def get_website_info():
     return route(request.json["type"])(request.json["url"])
 

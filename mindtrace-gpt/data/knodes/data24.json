@@ -1,0 +1,83 @@
+[
+
+{"title": "计算机", "stem": -1, "id": 0},
+
+{"title": "算法", "stem": 0, "id": 1},
+
+{"title": "数据结构", "stem": 0, "id": 2},
+
+{"title": "网络通讯", "stem": 0, "id": 3},
+
+{"title": "排序算法", "stem": 1, "id": 4},
+
+{"title": "查找算法", "stem": 1, "id": 5},
+
+{"title": "树结构", "stem": 2, "id": 6},
+
+{"title": "链表", "stem": 2, "id": 7},
+
+{"title": "协议", "stem": 3, "id": 8},
+
+{"title": "网络安全", "stem": 3, "id": 9},
+
+{"title": "AVL树", "stem": 6, "id": 10},
+
+{"title": "红黑树", "stem": 6, "id": 11},
+
+{"title": "二叉树", "stem": 6, "id": 12},
+
+{"title": "单向链表", "stem": 7, "id": 13},
+
+{"title": "双向链表", "stem": 7, "id": 14},
+
+{"title": "TCP/IP协议", "stem": 8, "id": 15},
+
+{"title": "HTTP协议", "stem": 8, "id": 16},
+
+{"title": "加密解密", "stem": 9, "id": 17},
+
+{"title": "黑客攻防", "stem": 9, "id": 18},
+
+{"title": "机器学习", "stem": 0, "id": 19},
+
+{"title": "深度学习", "stem": 19, "id": 20},
+
+{"title": "强化学习", "stem": 19, "id": 21},
+
+{"title": "图像识别", "stem": 20, "id": 22},
+
+{"title": "自然语言处理", "stem": 20, "id": 23},
+
+{"title": "游戏AI", "stem": 21, "id": 24},
+
+{"title": "智能机器人", "stem": 21, "id": 25},
+
+{"title": "编程语言", "stem": 0, "id": 26},
+
+{"title": "C语言", "stem": 26, "id": 27},
+
+{"title": "Python语言", "stem": 26, "id": 28},
+
+{"title": "Java语言", "stem": 26, "id": 29},
+
+{"title": "Ruby语言", "stem": 26, "id": 30},
+
+{"title": "算法优化", "stem": 1, "id": 31},
+
+{"title": "数据压缩", "stem": 1, "id": 32},
+
+{"title": "路由协议", "stem": 3, "id": 33},
+
+{"title": "防火墙", "stem": 9, "id": 34},
+
+{"title": "自动驾驶", "stem": 19, "id": 35},
+
+{"title": "区块链技术", "stem": 0, "id": 36},
+
+{"title": "去中心化", "stem": 36, "id": 37},
+
+{"title": "分布式存储", "stem": 37, "id": 38},
+
+{"title": "智能合约", "stem": 37, "id": 39}
+
+]

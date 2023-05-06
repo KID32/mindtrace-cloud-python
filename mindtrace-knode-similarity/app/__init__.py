@@ -1,35 +1,51 @@
 import json
+import os
 import threading
 from flask import Flask
-from .service.word_similarity.bert_word_similarity import get_feature_vector
-from general.nacos_utils import nacos_init
-from general.mq_utils import channel
+
+from general.session_utils import session
+from .service.word_similarity.gpt_embeddings import get_feature_vector
+from .service.ann.faiss_ann import add_to_index, save_index, add_to_index_batch
+from general.nacos_utils import nacos_init, gateway_host
+from general.mq_utils import *
 
 # 创建Flask应用实例
 app = Flask(__name__)
 # 注册服务
 nacos_init(ip="127.0.0.1", port=31595, service_name="mindtrace-knode-similarity-python")
 
+def get_chain_style_title(knode_id) -> str:
+    resp: list[str] = session.get(f"{gateway_host()}/core/knode/{knode_id}/chainStyleTitle").json()
+    if resp.__contains__("ROOT"):
+        resp.remove("ROOT")
+    resp.reverse()
+    title = " ".join(resp)
+    return title if title != "" else " EMPTY "
 
-# 处理 knode update 消息：视情况更新knode feature
+
+# 处理 knode update 消息：更新索引库，为了提高效率，每20条数据批量进行
+abspath = os.path.abspath(os.path.dirname(__file__))
+cache_path = os.path.join(abspath, "cache.json")
+with open(cache_path, "r") as cache_file_read:
+    cache: list = json.load(cache_file_read)
 def on_knode_update(ch, method, properties, body):
-    from .service.persistent import knode_feature as record
     print(f"Received message: {body.decode('utf-8')}")
     data = json.loads(body.decode("utf-8"))
-    title = record.get_chain_style_title(data["createBy"], data["id"])
+    title = get_chain_style_title(data["id"])
     if title != "":
+        cache.append(title)
+    if len(cache) > 20:
         with app.app_context():
-            record.set_knode_feature(int(data["id"]), get_feature_vector(title))
+            features = get_feature_vector([get_chain_style_title(knode_id) for knode_id in cache])
+            mapping = {cache[i]: features[i] for i in range(0, len(cache))}
+            add_to_index_batch(mapping)
+            save_index()
+        cache.clear()
+    with open(cache_path, "w") as cache_file_write:
+        json.dump(cache, cache_file_write)
     ch.basic_ack(delivery_tag=method.delivery_tag)
-# MQ路由配置
-exchange_name = "knode_event_exchange"
-mq_name = "update_event_mq"
-routing_key_update = "update"
-channel.exchange_declare(exchange=exchange_name, exchange_type='direct', durable=True)
-channel.queue_declare(queue=mq_name, durable=True)
-channel.queue_bind(queue=mq_name, exchange=exchange_name, routing_key=routing_key_update)
-channel.basic_qos(prefetch_count=1)
-channel.basic_consume(queue=mq_name, on_message_callback=on_knode_update)
+
+channel.basic_consume(queue=update_knode_event_mq, on_message_callback=on_knode_update)
 # 消费update knode信息的线程
 def start_consumer():
     # ... set up connection, channel, exchange, queues, and bindings ...

@@ -1,0 +1,85 @@
+[
+
+{"title": "计算机", "stem": -1, "id": 0},
+
+{"title": "算法", "stem": 0, "id": 1},
+
+{"title": "数据库", "stem": 0, "id": 2},
+
+{"title": "编程语言", "stem": 0, "id": 3},
+
+{"title": "排序算法", "stem": 1, "id": 4},
+
+{"title": "搜索算法", "stem": 1, "id": 5},
+
+{"title": "图论算法", "stem": 1, "id": 6},
+
+{"title": "关系型数据库", "stem": 2, "id": 7},
+
+{"title": "非关系型数据库", "stem": 2, "id": 8},
+
+{"title": "C语言", "stem": 3, "id": 9},
+
+{"title": "Java语言", "stem": 3, "id": 10},
+
+{"title": "Python语言", "stem": 3, "id": 11},
+
+{"title": "堆排序", "stem": 4, "id": 12},
+
+{"title": "快速排序", "stem": 4, "id": 13},
+
+{"title": "归并排序", "stem": 4, "id": 14},
+
+{"title": "二分查找", "stem": 5, "id": 15},
+
+{"title": "广度优先搜索", "stem": 6, "id": 16},
+
+{"title": "深度优先搜索", "stem": 6, "id": 17},
+
+{"title": "关系型数据库查询语言", "stem": 7, "id": 18},
+
+{"title": "关系型数据库插入语言", "stem": 7, "id": 19},
+
+{"title": "关系型数据库删除语言", "stem": 7, "id": 20},
+
+{"title": "文档型数据库", "stem": 8, "id": 21},
+
+{"title": "图数据库", "stem": 8, "id": 22},
+
+{"title": "MySQL数据库", "stem": 7, "id": 23},
+
+{"title": "Oracle数据库", "stem": 7, "id": 24},
+
+{"title": "SQLite数据库", "stem": 7, "id": 25},
+
+{"title": "C++语言", "stem": 3, "id": 26},
+
+{"title": "Ruby语言", "stem": 3, "id": 27},
+
+{"title": "Scala语言", "stem": 3, "id": 28},
+
+{"title": "二叉树", "stem": 6, "id": 29},
+
+{"title": "红黑树", "stem": 6, "id": 30},
+
+{"title": "AVL树", "stem": 6, "id": 31},
+
+{"title": "正则表达式", "stem": 9, "id": 32},
+
+{"title": "精通MySQL", "stem": 23, "id": 33},
+
+{"title": "精通Oracle", "stem": 24, "id": 34},
+
+{"title": "精通SQLite", "stem": 25, "id": 35},
+
+{"title": "Linux操作系统", "stem": 3, "id": 36},
+
+{"title": "Windows操作系统", "stem": 3, "id": 37},
+
+{"title": "Android操作系统", "stem": 3, "id": 38},
+
+{"title": "机器学习", "stem": 0, "id": 39},
+
+{"title": "深度学习", "stem": 39, "id": 40}
+
+]

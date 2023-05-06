@@ -1,0 +1,83 @@
+[
+
+{"title": "生物", "stem": -1, "id": 0},
+
+{"title": "分子生物学", "stem": 0, "id": 1},
+
+{"title": "细胞生物学", "stem": 0, "id": 2},
+
+{"title": "生态学", "stem": 0, "id": 3},
+
+{"title": "遗传学", "stem": 0, "id": 4},
+
+{"title": "基因组学", "stem": 1, "id": 5},
+
+{"title": "蛋白质组学", "stem": 1, "id": 6},
+
+{"title": "转录组学", "stem": 1, "id": 7},
+
+{"title": "代谢组学", "stem": 1, "id": 8},
+
+{"title": "细胞周期", "stem": 2, "id": 9},
+
+{"title": "细胞分裂", "stem": 2, "id": 10},
+
+{"title": "信号转导", "stem": 2, "id": 11},
+
+{"title": "物种多样性", "stem": 3, "id": 12},
+
+{"title": "生态系统", "stem": 3, "id": 13},
+
+{"title": "生物进化", "stem": 3, "id": 14},
+
+{"title": "基因型", "stem": 4, "id": 15},
+
+{"title": "表型", "stem": 4, "id": 16},
+
+{"title": "DNA复制", "stem": 5, "id": 17},
+
+{"title": "翻译", "stem": 5, "id": 18},
+
+{"title": "转录", "stem": 5, "id": 19},
+
+{"title": "蛋白质结构", "stem": 6, "id": 20},
+
+{"title": "蛋白质功能", "stem": 6, "id": 21},
+
+{"title": "RNA编辑", "stem": 7, "id": 22},
+
+{"title": "mRNA剪接", "stem": 7, "id": 23},
+
+{"title": "mRNA核糖化", "stem": 7, "id": 24},
+
+{"title": "代谢通路", "stem": 8, "id": 25},
+
+{"title": "代谢网络", "stem": 8, "id": 26},
+
+{"title": "细胞信号", "stem": 11, "id": 27},
+
+{"title": "激素信号", "stem": 11, "id": 28},
+
+{"title": "神经递质", "stem": 11, "id": 29},
+
+{"title": "分子生态学", "stem": 13, "id": 30},
+
+{"title": "景观生态学", "stem": 13, "id": 31},
+
+{"title": "海洋生态学", "stem": 13, "id": 32},
+
+{"title": "系统发育", "stem": 14, "id": 33},
+
+{"title": "种群遗传学", "stem": 14, "id": 34},
+
+{"title": "生物地理学", "stem": 14, "id": 35},
+
+{"title": "基因组编辑", "stem": 15, "id": 36},
+
+{"title": "基因敲除", "stem": 15, "id": 37},
+
+{"title": "基因敲入", "stem": 15, "id": 38},
+
+{"title": "表观遗传学", "stem": 16, "id": 39}
+
+]
